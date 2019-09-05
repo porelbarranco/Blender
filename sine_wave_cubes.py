@@ -3,8 +3,8 @@ import colorsys
 from math import sqrt, pi, sin, ceil
 from random import TWOPI
 
-# Number of cubes.
-count = 16
+# Number of cubes per row/col.
+count = 32 
 
 # Size of grid.
 extents = 8.0
